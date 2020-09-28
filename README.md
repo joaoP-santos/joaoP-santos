@@ -20,3 +20,5 @@ E-mail: potatohunter47@gmail.com
 - 😄 Curto super-heróis Marvel e seus filmes, programação, jogos como Minecraft/Among Us e seriados Netflix
 
 - ⚡ Fun fact: Aos meus 12 anos tive meu primeiro contato com o ambiente da universidade.
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaop-santos&show_icons=true&theme=chartreuse-dark&line_height=27">
