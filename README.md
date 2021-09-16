@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=auto&height=300&section=header&text=Joao_Pedro_Santos.read.me&fontSize=60%&width=100%" />
 <img width="auto" src="https://avatars3.githubusercontent.com/u/66499620?s=460&u=f9477d366a702d6567ccf35a75c2993ac30769a2&v=4">
 
 # João Pedro Santos
