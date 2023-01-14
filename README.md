@@ -2,7 +2,7 @@
 
 # João Pedro Santos
 ### Olá! 👋
-Meu nome é João Pedro Santos. Tenho 14 anos, moro em Alcobaça-BA e estou interessado em desenvolver aplicações com Node.js e Python. Gosto de trabalhar principalmente com o banco de dados [Firebase](https://firebase.com), que tem sido uma grande ajuda para mim. Com ele, aprendi a fazer projetos mais avançados.
+Meu nome é João Pedro Santos. Tenho 15 anos, moro em Alcobaça-BA e estou interessado em desenvolver aplicações com Node.js e Python. Gosto de trabalhar principalmente com o banco de dados [Firebase](https://firebase.com), que tem sido uma grande ajuda para mim. Com ele, aprendi a fazer projetos mais avançados.
 
 - :computer: Minha stack: Node.js e Python.
 
@@ -18,8 +18,8 @@ E-mail: potatohunter47@gmail.com
 
 - ⚡ Fun fact: Aos meus 12 anos tive meu primeiro contato com o ambiente da universidade.
 
-- 🏥 Atualmente estou no final do meu tratament de Linfoma de Hodgkin.
+- 🏥 Curado de Linfoma de Hodgkin, livre e saudável.
 
-- 🎓 No momento estou cursando o Ensino Médio no Instituto Federal Baiano.
+- 🎓 No momento estou cursando o Ensino Médio no Instituto Federal Baiano, campus Teixeira de Freitas.
 
 <img src="https://github-readme-stats.vercel.app/api?username=joaop-santos&show_icons=true&theme=chartreuse-dark&line_height=27">
