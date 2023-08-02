@@ -11,7 +11,7 @@ Meu nome é João Pedro Santos. Tenho 16 anos, moro em Alcobaça-BA e estou inte
 - 💬 Posso te ajudar se tiver alguma dúvida em uma das tecnologias citadas na stack.
 
 - 📫 Contato  
-E-mail: potatohunter47@gmail.com  
+E-mail: santosjoaopedroms@gmail.com.com  
 [LinkedIn](https://www.linkedin.com/in/joão-pedro-648ba01a8/)
 
 - 😄 Curto super-heróis da Marvel e seus filmes/séries, Star Wars, programação, jogos como Minecraft/Terraria e seriados Netflix e Disney+
